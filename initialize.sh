@@ -18,3 +18,4 @@ ambari-metrics-assembly start
 
 service start ntp
 
+echo "Done. Enjoy!"
