@@ -1,5 +1,8 @@
 #!/bin/bash
 
+#Intialize
+echo "Initializing Hadoop-Cluster Setup. Please wait..."
+
 apt-get -y update
 
 apt-get install ntp
