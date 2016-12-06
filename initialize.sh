@@ -14,3 +14,4 @@ ambari-agent start
 ambari-metrics-assembly start
 
 service start ntp
+
